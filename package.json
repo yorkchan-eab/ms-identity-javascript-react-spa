@@ -15,7 +15,7 @@
     "react-scripts": "^4.0.2"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=6420 react-scripts start",
     "build": "react-scripts build"
   },
   "browserslist": {
